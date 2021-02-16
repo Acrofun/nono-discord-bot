@@ -1,0 +1,13 @@
+{
+  "name": "Nono_BOT",
+  "description": "Example",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0"
+  },
+  "license": "ISC"
+}
